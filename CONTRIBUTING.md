@@ -2,4 +2,4 @@
 
 | Sl. No. | Name                                                           |
 | ------- | -------------------------------------------------------------- | 
-| 1       | [Ananta Mishra](https://github.com/anantamishra)               |
+| 1       | [Ananta Mishra](https://github.com/uttammishra)               |
